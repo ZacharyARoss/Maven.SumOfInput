@@ -24,7 +24,7 @@ public class Main {
                 }
         return sum;
             }
-            
+
     
     static int getInputNumber() {
         Scanner scan = new Scanner(System.in);
